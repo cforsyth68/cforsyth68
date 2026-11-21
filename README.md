@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Charles Forsyth (@cforsyth68)
-- 👀 I’m passionate about front-end engineering and UI/UX development, especially with React.
-- 🌱 I’m continuously learning everything I can to make me a better software engineer.
-- 📫 How to reach me: cforsyth68@gmail.com
+- 👀 I’m passionate about IoT, electronics, 3D printing, software engineering, and UI/UX development.
+- 🌱 How to reach me: cforsyth68@gmail.com
 
 <!---
 cforsyth68/cforsyth68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
